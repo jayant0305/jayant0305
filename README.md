@@ -6,7 +6,7 @@ Web Developer and Designer
 
 🚀 Coding for 4 years, Following the mantra: Learn. Build. Deploy.💻
 
-* 🌍  I'm based in Gurugram
+* 🌍  I'm based in Karnal.
 * 🖥️  See my portfolio at [MyPortfolio](http://.com/jayants-projects-ff550946)
 * ✉️  You can contact me at [jayantbhatia03@gmail.com](mailto:jayantbhatia03@gmail.com)
 * 🚀  I'm currently working on [HomePlates- Home-cooked meal and Tiffin Service](http://https://home-plates.vercel.app/)
