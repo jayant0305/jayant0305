@@ -6,7 +6,6 @@ Software Developer
 
 🚀 Coding for 4 years, Following the mantra: Learn. Build. Deploy.💻
 * 🌍  Software Developer Intern @ Metapointer in Hyderabad.
-* 🖥️  See my portfolio at [MyPortfolio](http://.com/jayants-projects-ff550946)
 * ✉️  You can contact me at [jayantbhatia03@gmail.com](mailto:jayantbhatia03@gmail.com)
 * 🚀  I'm currently working on the backend framework.
 
